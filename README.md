@@ -27,3 +27,6 @@
 ## Project Preview
 
 ![Preview, Digital Calculator](https://raw.githubusercontent.com/thomasalemayehu/Calculator/main/assets/readmefiles/img.png)
+
+## How to run
+1. Open index.html in a browser
